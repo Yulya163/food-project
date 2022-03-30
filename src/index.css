@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+nav {
+  padding: 0 1rem;
+}
+.content {
+  min-height: calc(100vh - 134px);
+  padding: 1.5rem 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;  
+}
+.list {
+  display: flex;
+  margin: 20px 0;
+  flex-wrap: wrap;
+}
+.card {
+  margin: 10px;  
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+img, iframe {
+  max-width: 100%;
+}
+iframe {
+  width: 600px;
+  height: 350px;
+}
