@@ -1,6 +1,6 @@
 # React Food Portfolio Project
 
-[Demo](https://yulya163.github.io)
+[Demo](https://yulya163.github.io/food-project)
 
 The project used:
 - [TheMealDB](https://www.themealdb.com/api.php) - an open, crowd-sourced database of Recipes from around the world.
